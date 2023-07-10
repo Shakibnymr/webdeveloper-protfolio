@@ -20,6 +20,7 @@ nav{
 display: flex;
 justify-content: space-around;
 align-items: center;
+margin: 0 150px;
 
 }
 nav > ul{
@@ -44,4 +45,17 @@ color: white;
 font-size: 20px;
 font-weight: 700;
 padding: 15px 30px;
+}
+/* header related style  */
+.header{
+    background-color: rgb(206, 187, 187);
+
+}
+.banner{
+display: flex;
+    padding: 30px 30px 30px 150px;
+    align-items: center;
+}
+.banner .pp{
+    width: 500px;
 }
