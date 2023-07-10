@@ -37,7 +37,7 @@ nav a {
     color: #474747;
 }
 .btn-primary{ 
-
+margin-right: 10px;
 border-radius: 5px;
 background: #FD6E0A;
 border: 0;
@@ -53,9 +53,34 @@ padding: 15px 30px;
 }
 .banner{
 display: flex;
-    padding: 30px 30px 30px 150px;
+    padding: 30px 85px 0px 150px;
     align-items: center;
+    background-image: url(../images/header_bg.png);
+    background-repeat: no-repeat;
+    background-position: bottom right;
 }
 .banner .pp{
-    width: 500px;
+    width: 520px;
+    padding-left: 200px;
 }
+.banner-greeting{
+
+    font-size: 45px;
+
+font-weight: 600;
+margin-bottom: 0;
+}
+.banner-heading{
+
+    font-size: 85px;
+
+font-weight: 700;
+margin-top: 0;
+}
+.banner-description{
+
+    font-size: 18px;
+margin-top: -50px;
+font-weight: 400;
+}
+
