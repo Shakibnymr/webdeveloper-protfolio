@@ -62,6 +62,7 @@ display: flex;
 .banner .pp{
     width: 520px;
     padding-left: 200px;
+    margin-bottom: -7px;
 }
 .banner-greeting{
 
@@ -103,6 +104,53 @@ font-weight: 700;
     color: #757575);
 text-align: center;
 font-size: 18px;
+margin: 50px 280px 50px 280px;
 
+}
+/* contact */
+.contact{
+    display: flex;
+    justify-content: center;
+    column-gap: 100px;
+    text-align: center;
+    margin-top: -230px;
+}
+.bb{
+    color: #8b7373;
+text-align: center;
+
+font-size: 20px;
+
+font-weight: 400;
+line-height: 30px;
+}
+/* about and contact */
+.aboutandcontact{
+    padding: 5px;
+    margin-top: -120px;
+    margin-bottom: 100px;
+}
+/* what i do */
+.whatido{
+
+text-align: center;
+
+
+}
+.whatidoh{
+    color: #181818);
+  
+ font-size:40px;
+
+font-weight: 700;
+
+}
+.whatidop{
+    color: #757575);
+margin: 40px 360px 70px 360px;
+
+font-size: 18px;
+
+font-weight: 400;
 
 }
